@@ -1,0 +1,44 @@
+.aboutus-container {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+}
+
+.image-aboutus-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.image-aboutus-container img {
+    border-radius: 20%;
+    width: 90%;
+    text-align: center;
+}
+
+.title-aboutus-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 230px;
+    text-align: center;
+    padding: 20px;
+}
+
+@media (min-width: 992px) {
+
+    .aboutus-container {
+        flex-direction: row;
+    }
+
+    .title-aboutus-container {
+        justify-content: center;
+        padding-top: 180px;
+        padding-left: 80px;
+        align-self: flex-start;
+        text-align: left;
+    }
+
+    .image-aboutus-container img {
+        width: 70%;
+    }
+}
