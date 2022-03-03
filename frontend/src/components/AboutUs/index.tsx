@@ -8,8 +8,8 @@ const AboutUs = () => {
             <img src={MainImage} alt="Logo" />
           </div>
           <div className="title-aboutus-container">
-              <h2>QUEM SOMOS</h2>
-              <p>Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla blabla</p>
+              <h2>NOSSO TRABALHO</h2>
+              <p>Sem sujeira, barulho ou quebra quebra, instalamos tijolinhos um a um em seu ambiente, proporcionando um resultado único!</p>
           </div>
       </div>
   );

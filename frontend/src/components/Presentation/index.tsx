@@ -9,7 +9,8 @@ const Presentation = () => {
           </div>
           <div className="title-presentation-container">
               <h2>OLÁ! SOMOS A TIJOLINHO IDEAL</h2>
-              <p>Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+              <p>Especialistas em produção e instalação de Tijolinhos Rústico de Gesso.
+                Unimos qualidade e dedicação para entregar ao seu ambiente a decoração que ele merece.</p>
           </div>
       </div>
   );
